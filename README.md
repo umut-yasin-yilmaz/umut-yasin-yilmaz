@@ -18,9 +18,9 @@ Solo game developer building AI-assisted games with **Godot 4 (GDScript)**.
 - Status: MVP development in progress
 
 ## Featured Project
-- **project-a** - AI-assisted solo 2D roguelite in Godot 4
-- Repo: https://github.com/CompanyEmployee/project-a
-- Highlights: structured MVP/Demo planning, QA checklist, risk register, data-driven balancing targets
+- **Project A Showcase** - Public showcase for an AI-assisted solo 2D roguelite in Godot 4
+- Repo: https://github.com/CompanyEmployee/project-a-showcase
+- Highlights: project direction, QA checklist, risk register, and safe public progress snapshots
 
 ## Development Workflow (AI-Assisted)
 - Atomic feature steps with clear acceptance criteria
