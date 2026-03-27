@@ -1,4 +1,4 @@
-﻿# Hi, I'm Umut Yasin YILMAZ
+# Hi, I'm Umut Yasin YILMAZ
 
 Solo game developer building AI-assisted games with **Godot 4 (GDScript)**.
 
@@ -12,6 +12,11 @@ Solo game developer building AI-assisted games with **Godot 4 (GDScript)**.
 - Engine: Godot 4.6.1
 - Language: Typed GDScript
 - Status: MVP development in progress
+
+## Featured Project
+- **project-a** - AI-assisted solo 2D roguelite in Godot 4
+- Repo: https://github.com/CompanyEmployee/project-a
+- Highlights: structured MVP/Demo planning, QA checklist, risk register, data-driven balancing targets
 
 ## Development Workflow (AI-Assisted)
 - Atomic feature steps with clear acceptance criteria
