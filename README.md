@@ -3,7 +3,6 @@
 **Solo indie game developer** shipping **2D roguelite** gameplay in **Godot 4** — production code in **typed GDScript**.  
 I work **AI-assisted**: large language models speed up implementation and refactors; **design goals, acceptance criteria, and final calls stay mine**.
 
-![MVP shipped](https://img.shields.io/badge/MVP-Shipped-2ea043?style=for-the-badge)
 ![Engine](https://img.shields.io/badge/Engine-Godot%204.6.1-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 ![Stack](https://img.shields.io/badge/Stack-GDScript-2f2f2f?style=for-the-badge)
 ![Workflow](https://img.shields.io/badge/Workflow-Human--in--the--loop%20%2B%20AI-2f2f2f?style=for-the-badge)
@@ -73,7 +72,6 @@ Direction, **QA checklist**, **risk register**, and **playtest builds** (GitHub 
 **Tek başıma çalışan, bağımsız** bir oyun geliştiricisiyim; **Godot 4** ile **2D roguelite tarzında** oyun geliştiriyorum; üretim kodunda **typed GDScript** kullanıyorum.  
 **Yapay zekâ destekli** çalışıyorum: büyük dil modelleri uygulama ve **refaktör** işlerini hızlandırır; **tasarım hedefleri, kabul kriterleri ve son söz yine bende**.
 
-![MVP shipped](https://img.shields.io/badge/MVP-Shipped-2ea043?style=for-the-badge)
 ![Engine](https://img.shields.io/badge/Engine-Godot%204.6.1-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 ![Stack](https://img.shields.io/badge/Stack-GDScript-2f2f2f?style=for-the-badge)
 ![Workflow](https://img.shields.io/badge/Workflow-Human--in--the--loop%20%2B%20AI-2f2f2f?style=for-the-badge)
