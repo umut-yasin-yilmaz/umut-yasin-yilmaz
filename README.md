@@ -2,7 +2,7 @@
 
 Solo game developer building AI-assisted games with **Godot 4 (GDScript)**.
 
-![Currently Building](https://img.shields.io/badge/Currently%20Building-Project%20A%20(Roguelite)-2f2f2f?style=for-the-badge)
+![MVP](https://img.shields.io/badge/MVP-Shipped-success?style=for-the-badge)
 ![Engine](https://img.shields.io/badge/Engine-Godot%204.6.1-2f2f2f?style=for-the-badge&logo=godot-engine&logoColor=white)
 ![Workflow](https://img.shields.io/badge/Workflow-AI--assisted%20Solo-2f2f2f?style=for-the-badge)
 
@@ -15,7 +15,7 @@ Solo game developer building AI-assisted games with **Godot 4 (GDScript)**.
 - **Project A**: Brotato-inspired 2D roguelite
 - Engine: Godot 4.6.1
 - Language: Typed GDScript
-- Status: MVP development in progress
+- Status: **MVP shipped** (Git tag `mvp-0.1`); next: demo / Steam-facing milestones
 
 ## Featured Project
 - **Project A Showcase** - Public showcase for an AI-assisted solo 2D roguelite in Godot 4
@@ -41,5 +41,6 @@ Solo game developer building AI-assisted games with **Godot 4 (GDScript)**.
 
 ### Türkçe
 AI destekli, solo oyun geliştirme süreciyle 2D roguelite oyunlar geliştiriyorum.
+**Project A** için **MVP tamamlandı** (`mvp-0.1`); sırada demo ve mağaza yönünde adımlar var.
 Odak noktam: temiz ilerleme, test edilebilir adımlar ve Steam'e giden sürdürülebilir üretim.
 
