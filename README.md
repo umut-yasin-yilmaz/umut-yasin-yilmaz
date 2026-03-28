@@ -1,18 +1,12 @@
-<div align="center">
-
 # Umut Yasin YILMAZ
 
-**Indie game developer · Solo studio · AI-assisted production**
+**Solo indie game developer** shipping **2D roguelite** gameplay in **Godot 4** — production code in **typed GDScript**.  
+I work **AI-assisted**: large language models speed up implementation and refactors; **design goals, acceptance criteria, and final calls stay mine**.
 
-*Shipping **2D roguelite** gameplay in **Godot 4** with **typed GDScript**.*
-
-![MVP shipped](https://img.shields.io/badge/MVP-Shipped-2ea043?style=flat-square)
-![Indie](https://img.shields.io/badge/Indie-Solo%20developer-6e5494?style=flat-square)
-![Godot](https://img.shields.io/badge/Godot-4.6.1-478CBF?style=flat-square&logo=godot-engine&logoColor=white)
-![GDScript](https://img.shields.io/badge/Code-GDScript-2f2f2f?style=flat-square)
-![Workflow](https://img.shields.io/badge/Build%20model-Human%E2%80%93in%E2%80%93the%E2%80%93loop%20%2B%20AI-555?style=flat-square)
-
-</div>
+![MVP shipped](https://img.shields.io/badge/MVP-Shipped-2ea043?style=for-the-badge)
+![Engine](https://img.shields.io/badge/Engine-Godot%204.6.1-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+![Stack](https://img.shields.io/badge/Stack-GDScript-2f2f2f?style=for-the-badge)
+![Workflow](https://img.shields.io/badge/Workflow-Human--in--the--loop%20%2B%20AI-555?style=for-the-badge)
 
 ---
 
@@ -68,11 +62,9 @@ Direction, **QA checklist**, **risk register**, and **playtest builds** (GitHub 
 
 ---
 
-<div align="center">
+## Tech I touch most
 
-**Tech ·** `Godot 4` · `GDScript` · `Git` / `GitHub` · `GitHub CLI` (`gh`)
-
-</div>
+`Godot 4` · `GDScript` · `Git` / `GitHub` · `GitHub CLI`
 
 ---
 
