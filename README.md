@@ -1,5 +1,13 @@
 # Umut Yasin YILMAZ
 
+<p align="center">
+  <strong>Language · Dil</strong><br>
+  <sub>Click a bar below to switch — GitHub has no JavaScript in READMEs; this uses a built-in accordion (exclusive <code>&lt;details&gt;</code> where supported).</sub>
+</p>
+
+<details name="profile-i18n" open>
+<summary><strong>English</strong></summary>
+
 **Solo game developer** shipping **2D roguelite** gameplay in **Godot 4** — production code in **typed GDScript**.  
 I work **AI-assisted**: large language models speed up implementation and refactors; **design goals, acceptance criteria, and final calls stay mine**.
 
@@ -41,13 +49,50 @@ Curated **direction, QA checklist, risk register**, and **playtest releases** (w
 
 `Godot 4` · `GDScript` · `Git` / `GitHub` · `GitHub CLI`
 
----
+</details>
 
-### Türkçe
+<details name="profile-i18n">
+<summary><strong>Türkçe</strong></summary>
 
-**Solo** oyun geliştiricisiyim; **Godot 4** ve **typed GDScript** ile **2D roguelite** üretiyorum.  
-Geliştirmede **yapay zekâyı** hız ve iterasyon için kullanıyorum; **tasarım önceliği, kabul kriterleri ve son kararlar bende**.
+**Solo** oyun geliştiricisiyim; **Godot 4** üzerinde **typed GDScript** ile **2D roguelite** oynanışı üretiyorum.  
+**AI destekli** çalışıyorum: dil modelleri uygulama ve refaktör hızını artırır; **tasarım hedefleri, kabul kriterleri ve son kararlar bende**.
 
-**Project A** için **MVP tamamlandı** (`mvp-0.1`); üretim deposu **private**, vitrin ve güvenli dokümanlar **[project-a-showcase](https://github.com/umut-yasin-yilmaz/project-a-showcase)** altında (repo **curation** sırasında geçici olarak private olabilir).
+![MVP shipped](https://img.shields.io/badge/MVP-Shipped-2ea043?style=for-the-badge)
+![Engine](https://img.shields.io/badge/Godot-4.6.1-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+![Stack](https://img.shields.io/badge/Stack-GDScript-2f2f2f?style=for-the-badge)
+![Workflow](https://img.shields.io/badge/Workflow-Human--in--the--loop%20%2B%20AI-555?style=for-the-badge)
 
-Odak: **oynanabilir döngü**, **disiplinli milestone**’lar, **QA + risk** ile sürdürülebilir ilerleme.
+## Odak
+
+- **Survivor-like / Brotato** tarzında sıkı **oyun döngüleri** (dalgalar, ekonomi, yükseltmeler)  
+- **Milestone disiplini** — net MVP kapsamı, “bitti” kriterleri, güvenilir tag’ler  
+- **Denetlenebilir süreç** — QA kapıları, risk takibi, crunch’e dayanıklı doküman  
+
+## Güncel oyun — Project A
+
+| | |
+|---|---|
+| **Özet** | Brotato esintili **2D roguelite** — süreli dalgalar, materyal, dalgalar arası dükkân, koşuyu bitir |
+| **Motor** | Godot **4.6.1**, typed **GDScript** |
+| **Durum** | Üretim deposunda **MVP tamamlandı** (**Git etiketi `mvp-0.1`**) |
+| **Sırada** | Demo yönünde cilâ, dağıtım ve mağaza adımları — proje hazır olduğunda; acele pazarlama yok |
+
+## Yapay zekâyı nasıl kullanıyorum
+
+- **İyi olduğu yerler:** tekrarlayan kod, hızlı iterasyon, refaktör, test fikirleri, doküman taslakları  
+- **Yerine geçmediği şey:** oyun tasarımı sahipliği, denge kararı, milestone onayı, oyuncuya giden son ürün  
+- **Kural:** her özellik **insan kabul çubuğundan** geçmeden “bitti” sayılmaz  
+
+## Öne çıkan — vitrin ve dokümanlar
+
+Yön özeti, **QA checklist**, **risk register** ve yayımlandığında **playtest sürümleri** burada:
+
+**→ [project-a-showcase](https://github.com/umut-yasin-yilmaz/project-a-showcase)**
+
+> *Repo **private** ise vitrini son haline getiriyorum; sonra tekrar kontrol edin veya **pin’lenmiş repoya** bakın.*
+
+## Sık kullandığım araçlar
+
+`Godot 4` · `GDScript` · `Git` / `GitHub` · `GitHub CLI`
+
+</details>
