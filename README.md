@@ -78,7 +78,9 @@ Direction, **QA checklist**, **risk register**, and **playtest builds** (GitHub 
 ![Stack](https://img.shields.io/badge/Stack-GDScript-2f2f2f?style=for-the-badge)
 ![Workflow](https://img.shields.io/badge/Workflow-Human--in--the--loop%20%2B%20AI-2f2f2f?style=for-the-badge)
 
-### Bir bakışta
+---
+
+## Bir bakışta
 
 | | |
 |:---|:---|
@@ -87,13 +89,17 @@ Direction, **QA checklist**, **risk register**, and **playtest builds** (GitHub 
 | **Yığın** | **Godot 4.6.1** · typed **GDScript** · **Git** / **GitHub** |
 | **Şimdi** | **Project A** — Brotato esintili **2D roguelite**; private repoda **MVP yayında** (`mvp-0.1`); sırada: hazır olunca demo cilâsı ve dağıtım |
 
-### Önceliklerim
+---
+
+## Önceliklerim
 
 - **Önce his** döngüleri — **survivor-like** bağlamında dalgalar, ekonomi, yükseltmeler  
 - **Kapanan milestone’lar** — sınırlı MVP’ler, net “bitti” tanımı, tekrarlanabilir **tag’ler**  
 - **Solo’ya ölçeklenen süreç** — QA kapıları, risk takibi, crunch’e dayanan dokümanlar  
 
-### Project A (güncel)
+---
+
+## Project A (güncel)
 
 | | |
 |---|---|
@@ -102,7 +108,9 @@ Direction, **QA checklist**, **risk register**, and **playtest builds** (GitHub 
 | **Durum** | **MVP yayında** (private üretim deposu, **`mvp-0.1`**) |
 | **Sırada** | Demo odaklı cilâ ve yayın planı — **erken mağaza hikâyesi yok** |
 
-### Solo hattımda yapay zekâ
+---
+
+## Solo hattımda yapay zekâ
 
 Yapay zekâyı **güç çarpanı** olarak kullanıyorum; **yaratıcı yönetmen** değil.
 
@@ -112,7 +120,9 @@ Yapay zekâyı **güç çarpanı** olarak kullanıyorum; **yaratıcı yönetmen*
 | Doküman / checklist taslağı | **Nihai** milestone veya yayın kararları |
 | Uygulama seçeneklerini keşfetmek | Özelliklerde **insan kabul eşiğini** atlamak |
 
-### Vitrin ve dokümanlar
+---
+
+## Vitrin ve dokümanlar
 
 Yön özeti, **QA checklist**, **risk register** ve yayımlandığında **playtest build’leri** (GitHub Releases):
 
@@ -120,6 +130,8 @@ Yön özeti, **QA checklist**, **risk register** ve yayımlandığında **playte
 
 > *Repo **private** ise public vitrin üzerinde aktif çalışıyorum — sonra tekrar bakın veya **pin’lenmiş repoları** izleyin.*
 
-### Sık kullandığım araçlar
+---
+
+## Sık kullandığım araçlar
 
 `Godot 4` · `GDScript` · `Git` / `GitHub` · `GitHub CLI`
