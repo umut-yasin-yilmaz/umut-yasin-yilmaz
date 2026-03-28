@@ -70,11 +70,53 @@ Direction, **QA checklist**, **risk register**, and **playtest builds** (GitHub 
 
 ## Türkçe
 
-**Bağımsız (indie) ve solo** oyun geliştiricisiyim; **Godot 4** ve **typed GDScript** ile **2D roguelite** üretiyorum.  
-Üretim **yapay zekâ destekli**: kod ve dokümanda hız; **tasarım önceliği, kabul kriterleri ve yayına giden kararlar bende**.
+**Solo indie** oyun geliştiricisiyim; **Godot 4** ile **2D roguelite** oynanışı üretiyorum — üretim kodu **typed GDScript**.  
+**AI destekli** çalışıyorum: büyük dil modelleri uygulama ve refaktörleri hızlandırır; **tasarım hedefleri, kabul kriterleri ve son kararlar bende** kalır.
 
-**Project A** — dalga / ekonomi / dükkân döngülü roguelite; **MVP tamamlandı** (`mvp-0.1`, private üretim deposu). Sırada: demo cilâsı ve dağıtım — acele mağaza anlatısı yok.
+*(Üstteki rozetler İngilizce etiketlidir: MVP Shipped · Engine Godot 4.6.1 · Stack GDScript · Human-in-the-loop + AI.)*
 
-Vitrin ve süreç dokümanları: **[project-a-showcase](https://github.com/umut-yasin-yilmaz/project-a-showcase)** (repo geçici **private** olabilir).
+### Bir bakışta
 
-Odak: **oynanabilir döngü**, **kapanan milestone**’lar, **QA + risk** ile sürdürülebilir solo üretim.
+| | |
+|:---|:---|
+| **Kim** | Tek kişilik **indie** — tasarım, uygulama ve üretim disiplini aynı döngüde |
+| **Nasıl üretiyorum** | **Solo**; kod ve dokümanda **AI araçları** ile hız — **tasarım kararları, kabul kriterleri ve neyin yayına gideceğine onay yine bende** |
+| **Yığın** | **Godot 4.6.1** · typed **GDScript** · **Git** / **GitHub** |
+| **Şimdi** | **Project A** — Brotato esintili **2D roguelite**; private repoda **MVP yayında** (`mvp-0.1`); sırada: hazır olunca demo cilâsı ve dağıtım |
+
+### Önceliklerim
+
+- **Önce his** döngüleri — **survivor-like** bağlamında dalgalar, ekonomi, yükseltmeler  
+- **Kapanan milestone’lar** — sınırlı MVP’ler, net “bitti” tanımı, tekrarlanabilir **tag’ler**  
+- **Solo’ya ölçeklenen süreç** — QA kapıları, risk takibi, crunch’e dayanan dokümanlar  
+
+### Project A (güncel)
+
+| | |
+|---|---|
+| **Özet** | **2D roguelite** — süreli dalgalar, materyaller, dalgalar arası dükkân, koşuyu tamamla |
+| **Motor** | Godot **4.6.1**, typed **GDScript** |
+| **Durum** | **MVP yayında** (private üretim deposu, **`mvp-0.1`**) |
+| **Sırada** | Demo odaklı cilâ ve yayın planı — **erken mağaza hikâyesi yok** |
+
+### Solo hattımda yapay zekâ
+
+Yapay zekâyı **güç çarpanı** olarak kullanıyorum; **yaratıcı yönetmen** değil.
+
+| Uygun olduğu yer | Uygun olmadığı yer |
+|------------------|---------------------|
+| Boilerplate, refaktör, daha hızlı iterasyon | Tasarım veya denge **zevkini** ikame etmek |
+| Doküman / checklist taslağı | **Nihai** milestone veya yayın kararları |
+| Uygulama seçeneklerini keşfetmek | Özelliklerde **insan kabul eşiğini** atlamak |
+
+### Vitrin ve dokümanlar
+
+Yön özeti, **QA checklist**, **risk register** ve yayımlandığında **playtest build’leri** (GitHub Releases):
+
+**[project-a-showcase](https://github.com/umut-yasin-yilmaz/project-a-showcase)**
+
+> *Repo **private** ise public vitrin üzerinde aktif çalışıyorum — sonra tekrar bakın veya **pin’lenmiş repoları** izleyin.*
+
+### Sık kullandığım araçlar
+
+`Godot 4` · `GDScript` · `Git` / `GitHub` · `GitHub CLI`
